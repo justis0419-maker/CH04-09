@@ -18,6 +18,7 @@ Unreal Engine 멀티플레이어 게임 개발 강의 목차
 7. 동기화
 
 참고내용
+
 https://dev.epicgames.com/documentation/ko-kr/unreal-engine/networking-and-multiplayer-in-unreal-engine?utm_source=chatgpt.com
 https://github.com/hohloh/gameplayframework
 https://github.com/bong9tutor/LPSubSystem
