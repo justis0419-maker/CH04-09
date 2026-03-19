@@ -6,6 +6,7 @@
 
 개발기간
 26.03.05~26.03.19
+
 학습 진행사항
 Unreal Engine 멀티플레이어 게임 개발 강의 목차
 1. 언리얼 멀티플레이 기초 개념
@@ -16,6 +17,7 @@ Unreal Engine 멀티플레이어 게임 개발 강의 목차
 6. Remote Procedure Call
 7. 동기화
 
+참고내용
 https://dev.epicgames.com/documentation/ko-kr/unreal-engine/networking-and-multiplayer-in-unreal-engine?utm_source=chatgpt.com
 https://github.com/hohloh/gameplayframework
 https://github.com/bong9tutor/LPSubSystem
