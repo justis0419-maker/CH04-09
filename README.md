@@ -13,6 +13,7 @@ Unreal Engine 멀티플레이어 게임 개발 강의 목차
 3. Property Replication 기초와 채팅 야구 게임
 4. 게임 프로젝트 생성
 5. Replication
+6. Remote Procedure Call
 7. 동기화
 
 https://dev.epicgames.com/documentation/ko-kr/unreal-engine/networking-and-multiplayer-in-unreal-engine?utm_source=chatgpt.com
